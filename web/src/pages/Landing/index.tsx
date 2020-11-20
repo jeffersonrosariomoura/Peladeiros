@@ -26,7 +26,7 @@ const Landing = () => {
                 />
 
                 <div className="buttons-container">
-                    <Link to="/player" className="study">
+                    <Link to="/match" className="study">
                         <img src={runningPlayerImg} alt="Pelada" /> 
                         Pelada
                     </Link>
